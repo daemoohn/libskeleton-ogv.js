@@ -2,6 +2,7 @@
 
 ## getting the source code
 git clone https://github.com/brion/libskeleton.git
+git checkout 7a3d1fb8e0414ece3aca264593673ff0dd1e4614
 
 ## et a random version tag
 cd libskeleton
