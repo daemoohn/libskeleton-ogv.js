@@ -7,7 +7,7 @@ git checkout 7a3d1fb8e0414ece3aca264593673ff0dd1e4614
 echo `git rev-parse master`
 cd ..
 
-## et a random version tag
+## get a random version tag
 cd libskeleton
 version="no-tag"
 cd ..
